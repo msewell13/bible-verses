@@ -1,11 +1,38 @@
-{
-  "Romans 3:23": "for all have sinned and fall short of the glory of God,",
-  "Romans 6:23": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
-  "Romans 5:8": "but God shows his love for us in that while we were still sinners, Christ died for us.",
-  "Romans 10:9-10": "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved.",
-  "Romans 5:12": "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—",
-  "Matthew 6:33": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
-  "Matthew 24:24": "For false christs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect.",
-  "1 Peter 3:15": "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,",
-  "Ephesians 6:10-11": "Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil."
-}
+[
+  {
+    "verse": "Romans 3:23",
+    "text": "for all have sinned and fall short of the glory of God,"
+  },
+  {
+    "verse": "Romans 6:23",
+    "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+  },
+  {
+    "verse": "Romans 5:8",
+    "text": "but God shows his love for us in that while we were still sinners, Christ died for us."
+  },
+  {
+    "verse": "Romans 10:9-10",
+    "text": "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved."
+  },
+  {
+    "verse": "Romans 5:12",
+    "text": "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned—"
+  },
+  {
+    "verse": "Matthew 6:33",
+    "text": "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
+  },
+  {
+    "verse": "Matthew 24:24",
+    "text": "For false christs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect."
+  },
+  {
+    "verse": "1 Peter 3:15",
+    "text": "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,"
+  },
+  {
+    "verse": "Ephesians 6:10-11",
+    "text": "Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil."
+  }
+]
